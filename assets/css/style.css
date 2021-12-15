@@ -591,6 +591,13 @@ small {
 
 }
 
+
+.newClass{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
 /* .teal {
   background-color: #00695c !important;
 } */
