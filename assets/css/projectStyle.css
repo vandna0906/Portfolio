@@ -26,6 +26,11 @@
     width: 100%;
     height: 20rem;
   }
+  .containerProject > div img:nth-child(3) {
+    width: 100%;
+    height: 20rem;
+    background-color: palevioletred;
+  }
   .containerProject .leftContent {
     display: flex;
     flex-direction: column;
