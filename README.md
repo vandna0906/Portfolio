@@ -3,7 +3,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://vandana-portfolio.netlify.app/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://vandana-portfolio.netlify.app/" target="_blank">>
   </a>
   </kbd>
 </p>
